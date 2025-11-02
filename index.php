@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WharfTales - Docker Container Management</title>
+    <title>WharfTales - Run your sites easily.</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap" rel="stylesheet">
@@ -168,7 +168,7 @@
   <path fill="black" d="M651.36,159.58c-174.5,0-319.2,127.49-346.09,294.4-22.4-8.08-46.56-12.49-71.75-12.49-116.79,0-211.46,94.68-211.46,211.46s94.68,211.46,211.46,211.46l417.84-3.66c193.62,0,350.59-156.96,350.59-350.59s-156.96-350.59-350.59-350.59ZM758.92,431.26c-19.21,0-34.78-15.57-34.78-34.78s15.57-34.78,34.78-34.78,34.78,15.57,34.78,34.78-15.57,34.78-34.78,34.78Z"/>
 </svg>
         <h1>WharfTales</h1>
-        <p class="tagline">Just another app to deploy your Websites, with Docker.</p>
+        <p class="tagline">Run your sites easily with Docker.</p>
 
         <div class="stats">
             <?php
